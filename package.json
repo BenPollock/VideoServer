@@ -1,0 +1,7 @@
+{
+	"name": "bpolloc3_SE3314b_A1",
+	"version": "1.0.0",
+	"dependencies": {
+		"net": "1.0.0"
+	}
+}

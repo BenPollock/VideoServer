@@ -1,0 +1,3 @@
+==VIDEO SERVER
+
+This a video server written in Node.js.  Given an mjpeg video and the VideoServer.exe application, it will properly receive/send RTSP messages and packetize the video into RTP packets, producing a video stream.  Features play/pause/teardown functions.
